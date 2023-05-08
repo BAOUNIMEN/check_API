@@ -6,8 +6,8 @@ import Apick from './Apick';
 function App() {
   return (
     <div className="App">
-<Pixaby />
-{/* <Apick /> */}
+      <Pixaby />
+      {/* <Apick /> */}
     </div>
   );
 }
